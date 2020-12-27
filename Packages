@@ -65,14 +65,14 @@ Version: 0.0.1
 Architecture: all
 Maintainer: KloudOS <admin@kloudos.org>
 Installed-Size: 412
-Depends: python3:any (>= 3.6~), dconf-gsettings-backend | gsettings-backend, at, firmware-manager-virtual, linux-image-5.8.17-kloudos, gir1.2-gtk-3.0, gir1.2-notify-0.7, pm-utils, python3-dbus, python3-evdev, python3-gi, python3-distro, python3-systemd, kloudos-dkms, kloudos-firmware-daemon, kloudos-power, xbacklight
+Depends: python3:any (>= 3.6~), dconf-gsettings-backend | gsettings-backend, at, linux-image-5.8.17-kloudos, gir1.2-gtk-3.0, gir1.2-notify-0.7, pm-utils, python3-dbus, python3-evdev, python3-gi, python3-distro, python3-systemd, kloudos-dkms, kloudos-power, xbacklight
 Recommends: hidpi-daemon
 Suggests: gnome-color-manager
 Filename: ./driver/kloudos-driver_0.0.1_all.deb
-Size: 65620
-MD5sum: 671d595912b4699b24ea2e9a96212db0
-SHA1: 66c777731f4156cea43cbc7c504f2dd0712a62c5
-SHA256: 192157d587edf0b3f99764a24ee1550108b3962b94766019b37baee998633f7d
+Size: 65596
+MD5sum: ea7885ef261baf9be933ed3f181d4ea3
+SHA1: a54e021d8a78e4b536c790a9fa12aa224b968307
+SHA256: c71b5c733345c73fbd2e516af339ce2847ae7c51062a716178fc7b17f01afd91
 Section: utils
 Priority: extra
 Homepage: https://github.com/kloudos/kloudos-driver
@@ -80,38 +80,6 @@ Description: Universal driver for KloudOS computers
  KloudOS Driver provides drivers, restore, and regression support for KloudOS.  Click the Device Menu (power icon at the top right
  of your screen) and choose System Settings.  Click KloudOS Driver to install
  drivers or restore your computer.
-
-Package: kloudos-firmware
-Version: 0.0.1
-Architecture: all
-Maintainer: KloudOS <admin@kloudos.org>
-Installed-Size: 4249
-Filename: ./firmware/kloudos-firmware_0.0.1_all.deb
-Size: 1297604
-MD5sum: 1209fa741643778b55440d47ec3404d4
-SHA1: c888d8c5e8c14c469fafd28f41fdd9b84bf0eb02
-SHA256: d948f3e9a0a6ae8485e38c0c3f6685cc6a609c8ce2e59bb0c4066e4c13ecd6dd
-Section: admin
-Priority: optional
-Homepage: https://github.com/kloudos/firmware
-Description: KloudOS Firmware CLI
-
-Package: kloudos-firmware-daemon
-Source: kloudos-firmware
-Version: 0.0.1
-Architecture: all
-Maintainer: KloudOS <admin@kloudos.org>
-Installed-Size: 4037
-Depends: dbus, dfu-programmer, systemd
-Filename: ./firmware/kloudos-firmware-daemon_0.0.1_all.deb
-Size: 1217280
-MD5sum: 909b57326508eb42a5a02593c16741d2
-SHA1: 8ad9f7c97a19b4bad06925adf133815217c34de5
-SHA256: 4d8a6f3b3c1c373adbccd234b8ca9dc113fcb6ce9aa4a0cad0db6613dacd77fb
-Section: admin
-Priority: optional
-Homepage: https://github.com/kloudos/firmware
-Description: KloudOS Firmware Daemon
 
 Package: kloudos-power
 Version: 0.0.1
