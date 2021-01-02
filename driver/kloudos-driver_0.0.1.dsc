@@ -13,26 +13,26 @@ Build-Depends: debhelper (>= 9), dh-systemd, dh-python, gir1.2-gtk-3.0, gir1.2-n
 Package-List:
  kloudos-driver deb utils extra arch=all
 Checksums-Sha1:
- 6da8b26fc6c72467d833f9210cf71e12780dab79 115092 kloudos-driver_0.0.1.tar.xz
+ da99adebbf416e3301e6e9c45b74fa7bc25041ce 90768 kloudos-driver_0.0.1.tar.xz
 Checksums-Sha256:
- 640996031ccf09adb65d8cea47a1a1688e84f88c1332847334baff1c653e0b27 115092 kloudos-driver_0.0.1.tar.xz
+ 92ed053a9102f9a99b0e7b70d87ddc4d50dadade412a1c8f9ba3f22124f7742b 90768 kloudos-driver_0.0.1.tar.xz
 Files:
- ac3afcb79551c0f6fa9ca690b7731254 115092 kloudos-driver_0.0.1.tar.xz
+ 8c3f1fcace81dd8e9e982638f37ee0d2 90768 kloudos-driver_0.0.1.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJGBAEBCgAwFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/pETISHGFkbWluQGts
-b3Vkb3Mub3JnAAoJEG5FJSesZwOq6k8P/j+OIuJPFrtyx5oC/FsrY6D/VsJcjmdt
-uKlsBU6q+zCYs4jglNRplbrEFf9PatPf/q93RNvLI/Nf9QmSUY9R5xDfCuLYh8o3
-pceHXScBFlTBgaRfXGbxz4r2inQUOuSuHcCnXWVVcMRFZNVz5vi4mgwv/vgL7yZL
-7Xa3V9UlU9zajH7IzMTtVBpVyYABkgKOqa+PeCYVML7Q8Ohzcd3OytA0V1Rxqspf
-dEmNRJQntzw3UxucqdsY2GWsSStltAcM1q0iMwL6JdcrBsEo/Aomt7OI15DURwFm
-GZ/KCKnQXRfFeoS4nsJdPX6fhAg4XdeOW0NS6yYRHMxL8iWdVtMd91LlqfwUuZlB
-SiZ9Dxth6LsIai7sWXwWjT/Pi2ySPWkXba6cb+OcJ3XYY/rKgsm5Fnj5gb+fp10O
-S+ufl6iT20/Z+DKV2UShbQVMLPnycaVrzG2xFsQhjhg0wPnKqTx5Oi4Ul1OZIY5x
-IbHdHTm8zGbZPpR/8yNHBO7FmvNe1vSnk5sf+n5W9b8uMFhEpH1kMkPg00DnIfO/
-kiL/+Zh6OkMDf789S2Vic34jEK47TK8NwrcJM6wFkJuP8aLuyHk7CGGeLJKG5xha
-MU3JtkniCF5jeScu56lqEe+g/rAqt/B+u0FRrB8mQMgxSMpwkTEAEI1rz9gDokg6
-o4eT3fOb6umC
-=QSXC
+iQJGBAEBCgAwFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/v2TYSHGFkbWluQGts
+b3Vkb3Mub3JnAAoJEG5FJSesZwOqGIMP/jGhXebEd9ZmJkdH7kwA+tRDhWupXSXb
+8cOS11NJBZVHxrpMmWDou2euVNaN11je0DH+rSGs3fNS/tSAY4PuBBzibecc4OSX
+TE75PiAaLClMmK9A1G/oEL0I2cc46bw/sdouSxbiJGAAx49F7NgcliQayhuWbcq+
+MfEyr0SuapHh3qDTy8081abeH4u5J3VZ1/eof84pxe0VklOaZckXoWNzThvCBtMh
+kZn8A9Q0fjdLTgSVwCcpYM+Am4rybODYYMt5pCWi2CCQPi5Z+GAkd85dA2Y8wJcf
+C0jrDVI1rJubH+QLlUZBgl6IJ8tJoYsMoZbi8oqr9IfiLAa20hJxgbxhiCMBBkkG
+nAuHf4huN9sdh/s32lu7Zbebd+93JNmZ3bZGbh18zKT/dkwerXvOwvPXyOAmE5NE
+Wvu6Z53k6oy12LmXmamD/o634aYXeZUXs/h+62SmUkWvRmqTO1FiYg94oujZQ8tr
+B9SrzY+GqO4tE4RT6Djh1c2ff1OjWere8tMtXE8qHW/fXUzhP3Lh9qTyEHl/J48C
+GBjHoiRLD7DW4GkLzYVKJHsUcD5dJE13sSxi6F3y8EEEqxjRE+7js5qpMeXGIk4w
+JFQHdgsD/lE9szoAPQbo+uD/IM+cdUeZit+UsMgmRrYO3amchGsvF33DkvOwJf79
+4sZAwrxgS3Lq
+=xI5O
 -----END PGP SIGNATURE-----

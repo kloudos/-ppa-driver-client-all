@@ -19,26 +19,26 @@ Package-List:
  nvidia-common deb oldlibs extra arch=i386,amd64,armel,armhf
  ubuntu-drivers-common deb admin optional arch=any
 Checksums-Sha1:
- d07a599018158460a410ea40ea75768eab9da716 800588 ubuntu-drivers-common_0.8.6.2.tar.xz
+ 13f7e3ca19b57e6538adc4511b5a9486cc03da8b 800580 ubuntu-drivers-common_0.8.6.2.tar.xz
 Checksums-Sha256:
- 5f7fbbaee7f25a9e340d2296b8fa78532395beaf6f18cad8d8a684174629fc6a 800588 ubuntu-drivers-common_0.8.6.2.tar.xz
+ cf679188d9d8d5732e8ae5405f20872ca6338a50dd2832f6ad81775ae9723884 800580 ubuntu-drivers-common_0.8.6.2.tar.xz
 Files:
- 11a0155c222de49e620d1107f71d368f 800588 ubuntu-drivers-common_0.8.6.2.tar.xz
+ 7020d0712e30007ab6eae74faba5476e 800580 ubuntu-drivers-common_0.8.6.2.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJGBAEBCgAwFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/pEJMSHGFkbWluQGts
-b3Vkb3Mub3JnAAoJEG5FJSesZwOqlW0P/jIDt6DuLHq8MItFsfQvnM+JLR4K0jry
-JwBWFggn6PPFP0UfYZ6m3xAlOkTISWJsU+KbbKD1OB68v/fmxG8y/ci+sgxXgLrW
-ok+dWgSoCyX1JAM28PNgmcOMg+VBs7fVVI5KwUucmAD2x0eKuuwpWQrrtLnNUB77
-E4jURSuUID9dDtIeE+afmuSrrGQzawLbzsxmlY+DjHvesYZ8yS49AIZmBeG5QsT+
-ILqJelIW0bXNg6V15GY3LEsjP/tbPXVvYaww//r8sbDgRnIBvOU6kPWSEB70cBPX
-XMWB2tzEJ5nHYNhKyS6J96q8vC278QSOXBBn50x/InRjrjSnrUJuj2rIP1ZknHvp
-jOXa6z6GYj33MxIDAC7cj8CvKWk083fiVXxu9ednO8QbNU6sTbB6Br1xxFNoidWl
-SR9uEU2c5/zDGLLjzWrL2sfdhr2SzCQoeExbqQ23EDl6hW5Yh28b2LdWvJJLtCb2
-2LjAu0ArmqeUVE0JZ/nbtSKKLpq/eh6jenQYeU9UwOTpbR1+sbWOjjntGNijWksJ
-lXN9h92r5t/fhwbGlqe3AeRk+HbsX062hYRVNIzVneRbQHNzWEmwM72OmcHmj+4Q
-wVP7ukAm1Tm6b4RYs0NoBPUl+5gizdxt5689rHfY1nDl+XuYR73ZY/vcdaHsMZ0A
-oUjLYyzwIJkL
-=J+4J
+iQJGBAEBCgAwFiEEFH+svlCPOzW9QRd2bkUlJ6xnA6oFAl/v2HASHGFkbWluQGts
+b3Vkb3Mub3JnAAoJEG5FJSesZwOq2pMP+weBDtZr6LOwKTlAA6RvGcRxSqtfqR1y
+VPqLVE/QBCUj8/Qml4j1+/KbUES2Qnf5ZHJ7hWLtLjdXbW7IVMaBX57nv+qNaOHX
+zRmYiIG7ffbr2YQzYegipTDdGQ93O0zC4uGdaEk53BxspU5DjRl9I0dfcOw1o8wl
+ijkcwQUGKMOuJFQ52ryCdpWMf7Pwtqzm0kJfSYY8je4HPOoDqaKq57pxgIHxnLZ4
+6eK8eFj8OqnENgqbRZJAvCxuYyG8huT9N3lR7gYfOb4d6cBrw2jMOaJ0Y4wbOEJr
+ettTkqq96aO749DyJu7T7OPBZSQ5wQVKOqkn0EAO5dGZviY8mQzgi+MjXEy4KsSg
+xX1O8gTv7JJ09zO/9hVglAeuaZgJ/B6NHujk0P74IKhEi02sXojJbrpWxIahgwwb
++LECGJt41gjap4uy7q08MfugUQqDeMvD5vZuD2XNkahVCWMi+lhHNcWHZLrTcJ0w
+lOexKx01SrPiy9kz3KyjsEYTe062nZjLVi2fpIBoPQ+ElI8o4ft1Me9gIpB8Jy7y
+/6fVggjpS9MI7fk6Kbrxn+kXIXPDPuv6w590gVmtKcvLhJvdyXre/ciRLD1tyh/t
+ZJBq/mLnG0MaqMyEebiu9wSs58Y/6QfzeVtaVuFz5NW9Go0cjFB5o+W5S/HYiUIG
+w47FdM1ORN/I
+=gnb/
 -----END PGP SIGNATURE-----
